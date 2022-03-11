@@ -1,3 +1,4 @@
+(This is the actual project README document)
 
 ## Description
 The application enables the user to quickly produce README documents that conform closely to industry standards.
@@ -61,6 +62,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-Checkbox Table of Contents, Editor Prompts
