@@ -39,15 +39,6 @@ Simply follow the prompts and focus on content. Input type prompts expect text f
 
 ![alt text](./assets/images/com_2.png)
 
-## Credits
-Snowball Pete, snowball_pete-github
-
-## Attribtutions
-Acme Software and Explosives
-
-## Tutorials
-"This is How we Do it (Guide for the Ill-informed)"
-
 ## License
 MIT License
 
@@ -71,17 +62,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-## Badges
-Bronze Self-Award Badge
-
 ## Features
 Checkbox Table of Contents, Editor Prompts
-
-![alt text](./assets/images/com_3.png)
-
-## Contribute
-Refer to Contributor Covenant (https://www.contributor-covenant.org/).
-
-## Tests
-This is some standin test verbage.
