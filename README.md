@@ -3,6 +3,9 @@
 (This is the actual project README document)
 
 ## [Video Link](https://youtu.be/hr5PzA3yqps)
+## [Code](./index.js)
+## [Sample README.md](./sample_README.ms)
+
 
 ## Description
 The application enables the user to quickly produce README documents that conform closely to industry standards.
