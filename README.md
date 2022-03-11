@@ -1,5 +1,8 @@
 (This is the actual project README document)
 
+## Video Link
+[I'm an inline-style link](https://www.google.com)
+
 ## Description
 The application enables the user to quickly produce README documents that conform closely to industry standards.
 
