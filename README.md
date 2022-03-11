@@ -4,7 +4,7 @@
 
 ## [Video Link](https://youtu.be/hr5PzA3yqps)
 ## [Code](./index.js)
-## [Sample README.md](./sample_README.ms)
+## [Sample README.md](./sample_README.md)
 
 
 ## Description
