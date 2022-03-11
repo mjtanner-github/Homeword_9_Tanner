@@ -11,21 +11,7 @@ The application is intended to guide the user, using npm model inquirer prompts,
 
  [Usage](#usage) 
 
- [Credits](#credits) 
-
- [Attributions](#attributions) 
-
- [Tutorials](#tutorials) 
-
  [License](#license) 
-
- [Badges](#badges) 
-
- [Features](#features) 
-
- [Contribute](#contribute) 
-
- [Tests](#tests) 
 
  
 ## Installation
