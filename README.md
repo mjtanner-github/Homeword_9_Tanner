@@ -6,17 +6,8 @@ The application enables the user to quickly produce README documents that confor
 ## Movitavtion
 The application is intended to guide the user, using npm model inquirer prompts, to draft a README document conforming to industry standards while automating many formating tasks so that the user may more closely focus on the content.
 
-## Table of Contents
-[Installation](#installation) 
-
- [Usage](#usage) 
-
- [License](#license) 
-
- 
 ## Installation
 Prior to running 'README Generator', the npm packages 'inquirer' and 'fs' must be installed in the Node directory. Then 'README Generator' can be run from it's resident directory with a call to Node.
-
 
 ![alt text](./assets/images/com_1.png)
 
