@@ -10,7 +10,7 @@
 ## Description
 The application enables the user to quickly produce README documents that conform closely to industry standards.
 
-## Movitavtion
+## Motivation 
 The application is intended to guide the user, using npm model inquirer prompts, to draft a README document conforming to industry standards while automating many formating tasks so that the user may more closely focus on the content.
 
 ## Installation
